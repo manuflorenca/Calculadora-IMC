@@ -134,3 +134,23 @@ button:hover {
 .table-data p:nth-child(3) {
     max-width: 80px;
 }
+
+#back-btn {
+    align-self: center;
+}
+
+.good {
+    color: #12db34;
+}
+
+.low {
+    color: #dbce12;
+}
+
+.medium {
+    color: #db6212;
+}
+
+.hight {
+    color: #db1912;
+}
